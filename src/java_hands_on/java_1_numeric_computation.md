@@ -1,6 +1,5 @@
 # Problem : Find Interest Value
-
-## Create a class Account with below attributes: <br/>
+<b><h3>Create a class Account with below attributes:</h3></b>
 int id <br/>
 double balance <br/>
 double interestRate <br/>
@@ -17,7 +16,7 @@ Consider below logic to calculate the interest value: <br/>
 <li>For specified no of years, first find out the percentage value those no of years based on specified interestRate. E.g. if no of years is 5 and specified interestRate is 4%, then 4% of 5 is 0.2.</li>
 <br/>
 <li>This percentage should be added to original interstRate for calculating the final interest value. Hence for above example it will be 4.2 (instead of 4).</li>
-
+<br/>
 Display the interest amount rounded upto three decimal places. Even if the result does not have decimal, it should be displayed with suffix ".000".
 
 #### Consider below sample input and output:
