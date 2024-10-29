@@ -1,5 +1,4 @@
 # Problem : Factorial of Input Numbers
-<hr/>
 
 Write a program to read 5 numbers and print factorial of each.
 (Final answer should be non-decimal numbers.)
