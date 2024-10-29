@@ -1,5 +1,4 @@
 # Problem : Smallest Character in String
-<hr/>
 Write main method in Solution Class.
 
 The method will read a String value and print the minimum values character (as per alphabet and ASCII sequence).
