@@ -1,5 +1,4 @@
-# Problem : Find Second Largest Prime Number
-<hr/>
+# Problem : Find Second-Largest Prime Number
 
 Write a program to read <b> n numbers </b> and display the <b> second-largest prime number</b>.
 
